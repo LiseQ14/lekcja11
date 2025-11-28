@@ -1,0 +1,25 @@
+body {
+	font-family: Arial;
+	padding: 20px;
+}
+
+.list-group-item {
+	padding: 8px;
+	border: 1px solid #aaa;
+	margin-bottom: 4px;
+	background: #f9f9f9;
+	cursor: pointer;
+}
+
+.active {
+	background-color: lightblue;
+}
+
+.controls button,
+.filter button {
+	margin: 3px;
+}
+
+input {
+	padding: 5px;
+}
