@@ -76,7 +76,7 @@ Aplikacja demonstruje działanie najważniejszych metod manipulacji elementami D
 ## Pliki w repozytorium
 - `index.html`  
 - `style.css`  
-- `app.js`  
+- `script.js`  
 - `README.md`
 
 ---
